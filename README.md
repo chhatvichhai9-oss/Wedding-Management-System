@@ -1,1 +1,0 @@
-# Wedding-Management-System
